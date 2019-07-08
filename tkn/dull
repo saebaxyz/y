@@ -1,0 +1,3 @@
+cd y
+rm -rfv .git
+cd

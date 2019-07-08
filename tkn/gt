@@ -1,0 +1,4 @@
+git clone https://github.com/saebaxyz/y.git
+cd y
+rm -rfv .git
+cd
